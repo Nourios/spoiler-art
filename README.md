@@ -8,6 +8,7 @@ Works best with simple images like emojis, doesnt work well if your image has a 
 * Python 3.x
 * Pillow library, install with pip using `pip install Pillow` https://github.com/python-pillow/Pillow
 
+# examples
 ![](https://i.imgur.com/wrGSgVa.png)
 ![](https://i.imgur.com/6EKPm1r.png)
 ![](https://i.imgur.com/V7lLg2w.png)
