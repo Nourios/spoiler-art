@@ -6,4 +6,4 @@ Works best with simple images like emojis, doesnt work well if your image has a 
 
 # requirements
 * Python 3.x
-* Pillow library, install with pip using `$ pip install Pillow`
+* Pillow library, install with pip using `pip install Pillow` https://github.com/python-pillow/Pillow
