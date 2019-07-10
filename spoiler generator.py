@@ -5,7 +5,8 @@ def pickImg():
     chosenFile = 0
     files = []
     for k in os.listdir('.'):
-        if k.lower().endswith('.jpg') or k.lower().endswith('.png'):
+        kn = k.lower()
+        if kn.endswith('.jpg') or kn.endswith('.png'):
             files.append(k)
 
     for f in range(len(files)):
